@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/OpenTechConsult/locator/issues"
   },
-  "homepage": "https://github.com/OpenTechConsult/locator#readme"
+  "homepage": "https://github.com/OpenTechConsult/locator#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.0.0"
+  }
 }
